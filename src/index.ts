@@ -9,3 +9,5 @@ console.log(greet("subrepo"));
 console.log(`(using @test/core v${CORE_VERSION})`);
 
 export const APP_NAME = "@test/app";
+
+// this is so cool man
