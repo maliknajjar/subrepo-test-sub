@@ -9,3 +9,6 @@ ways via `git subrepo push` / `git subrepo pull`.
 
 > Note: standalone, this package needs `@test/core` to be available
 > (it resolves to a sibling workspace package inside the monorepo).
+
+## Changelog
+- Edited directly in the standalone app repo.
